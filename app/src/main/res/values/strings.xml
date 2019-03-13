@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Listr</string>
+    <string name="item_title_label">Title</string>
+    <string name="item_title_hint">Enter a title for your Item</string>
+    <string name="item_detail_label">Detail</string>
+    <string name="item_detail_hint">Describe the Item</string>
+    <string name="item_have">Have</string>
+    <string name="date_picker_title">Date added:</string>
+    <string name="new_item">New Item</string>
+    <string name="delete_item">Delete Item</string>
+</resources>
